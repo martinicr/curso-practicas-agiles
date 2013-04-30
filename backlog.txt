@@ -2,7 +2,11 @@ Backlog para PADSJ
 ==========================================
 
 - Practicas agiles: principios
-- Metodologias agiles: Scrum/Kanbam
+	- Resumen de "The art of agile development" LISTO
+	- Resumen de "Succeding with agile" 
+
+- Metodologias agiles: Scrum/Kanbam/XP/Lean
+
 - Descripcion general de las herramientas y metodologias del curso
 
 Documento generados:
