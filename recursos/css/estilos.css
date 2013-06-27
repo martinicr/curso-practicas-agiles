@@ -84,7 +84,8 @@ a:focus {
 h2{
     font-weight: bold;
     font-size: 50px;
-    margin: 10px 0 10px 0; 
+    margin: 10px 0 10px 0;
+    line-height: 45px; 
 }
 
 .impress-enabled .step {
@@ -156,6 +157,10 @@ h2{
     white-space: nowrap;
 }
 
+.slide ul{
+    margin: 20px 0 20px 0;
+}
+
 .slide li{
     line-height: normal;
 }
@@ -194,9 +199,6 @@ h2{
 	font-size: 95px;
 }
 
-/* #title .title-text3 span{
-    color: #ff6600; 
-} */
 
 #title .title-text4{
 	font-size: 80px;
@@ -218,4 +220,33 @@ h2{
 
 #title .footnote {
     font-size: 32px;
+}
+
+#study-case {
+    padding: 0;
+    height: 700px;
+
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 800;
+    line-height: .8;
+    letter-spacing: -2px;
+}
+
+#study-case .title-box{
+    margin: 220px 0 0 125px;
+}
+
+#study-case .title-text1{
+    font-size: 100px;
+    letter-spacing: -7px;
+}
+
+#study-case .title-text2{
+    font-size: 140px;
+    letter-spacing: -10px;
+}
+
+#study-case .title-text3{
+    font-size: 174px;
 }
